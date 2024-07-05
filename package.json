@@ -1,8 +1,9 @@
 {
-  "name": "rick-and-morty",
+  "name": "api-activity",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://knight7080.github.io/API-Activity",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
